@@ -1,7 +1,7 @@
 
 import './App.css';
 import Header from './components/Header.jsx';
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import TeamScreen from './screens/TeamScreen';
 import DexScreen from './screens/DexScreen';
 
