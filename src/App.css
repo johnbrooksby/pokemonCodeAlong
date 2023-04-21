@@ -155,6 +155,7 @@ form {
   border-radius: 3px;
   display: flex;
   flex-direction: column;
+  align-items: center;
   width: 300px;
   padding: 10px;
   box-sizing: border-box;
@@ -177,6 +178,10 @@ form {
 
 .green {
   color: green;
+}
+
+.poke-img {
+  width: 75%;
 }
 
 
